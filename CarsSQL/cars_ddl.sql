@@ -7,5 +7,6 @@ CREATE Table Car (
     registration VARCHAR(7) PRIMARY KEY,
     make VARCHAR(25),
     model VARCHAR(25),
-    yearOfManufacture INT
+    yearOfManufacture INT,
+    speed INT
 )
