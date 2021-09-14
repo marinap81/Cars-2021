@@ -1,0 +1,5 @@
+CREATE DATABASE CarsDB;
+
+USE CarsDB;
+
+SELECT * FROM Car;
